@@ -1,0 +1,13 @@
+.exhibit{
+  background-color: #ffb3ff;
+  width: 80%;
+  margin: 20px auto;
+  height: 500px;
+  border-radius: 7px;
+  color:rgb(84, 0, 97);
+}
+
+.exhibitContainer{
+  margin-top: 10px auto;
+  padding: 10px;
+}

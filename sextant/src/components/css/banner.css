@@ -1,0 +1,14 @@
+.banner{
+  background-color: #ff1aff;
+  width: 80%;
+  margin: 20px auto;
+  height: 70px;
+  border-radius: 7px;
+}
+
+.bannerHeading{
+  font-size: 30px;
+  padding: 20px;
+  position:relative;
+  color: aliceblue;
+}
