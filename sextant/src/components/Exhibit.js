@@ -7,9 +7,6 @@ const Exhibit = () => {
     <div className='exhibit'>
     <div className="exhibitContainer">
       <Card/>
-      <Card/>
-      <Card/>
-      <Card/>
     </div>
     </div>
   )
